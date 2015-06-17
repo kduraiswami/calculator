@@ -1,0 +1,66 @@
+.container{
+	width: 15%;
+	height: 20%;
+	border: 2px solid black;
+}
+
+.viewer{
+	width: 95%;
+	border: 1px solid black;
+}
+
+.seven{
+	margin-left: 2%;
+	width: 22%;
+}
+.eight{
+	width: 22%;
+}
+.nine{
+	width: 22%;
+}
+.add{
+	width: 22%;
+}
+
+.four{
+	margin-left: 2%;
+	width: 22%;
+}
+.five{
+	width: 22%;
+}
+.six{
+	width: 22%;
+}
+.subtract{
+	width: 22%;
+}
+
+.one{
+	margin-left: 2%;	
+	width: 22%;
+}
+.two{
+	width: 22%;
+}
+.three{
+	width: 22%;
+}
+.divide{
+	width: 22%;
+}
+
+.zero{
+	margin-left: 2%;
+	width: 22%;
+}
+.clear{
+	width: 22%;
+}
+.equal{
+	width: 22%;
+}
+.multiply{
+	width: 22%;
+}
